@@ -45,6 +45,8 @@ Dataset used:
 }
 ```
 
+
+
 ## 📚 Citation
 
 ```bibtex
@@ -55,3 +57,15 @@ Dataset used:
   url={https://huggingface.co/datasets/Josephgflowers/Finance-Instruct-500k}
 }
 ```
+---
+
+## 🧑‍💻 Author & Links
+
+- 📖 Medium Blog: [How I Fine-Tuned TinyLlama with Finance-Instruct-500k](https://medium.com/@yourusername/your-post-link)
+- 🔗 LinkedIn: [Your Name](https://www.linkedin.com/in/your-profile)
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Made_with-LoRA-blue?style=flat-square">
+  <img src="https://img.shields.io/badge/Platform-HuggingFace-orange?style=flat-square">
+  <img src="https://img.shields.io/badge/Blog-Medium-black?style=flat-square&logo=medium">
+</p>
