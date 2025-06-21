@@ -43,6 +43,7 @@ Dataset used:
   "user": "What is the difference between stocks and bonds?",
   "assistant": "Stocks represent ownership in a company, while bonds are a form of debt."
 }
+```
 
 ## 📚 Citation
 
@@ -53,4 +54,4 @@ Dataset used:
   year={2025},
   url={https://huggingface.co/datasets/Josephgflowers/Finance-Instruct-500k}
 }
-
+```
