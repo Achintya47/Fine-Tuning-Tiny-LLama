@@ -61,8 +61,8 @@ Dataset used:
 
 ## 🧑‍💻 Author & Links
 
-- 📖 Medium Blog: [How I Fine-Tuned TinyLlama with Finance-Instruct-500k](https://medium.com/@yourusername/your-post-link)
-- 🔗 LinkedIn: [Your Name](https://www.linkedin.com/in/your-profile)
+- 📖 Medium Blog: [How I Fine-Tuned TinyLlama with Finance-Instruct-500k](https://medium.com/@sharmaachintya49e)
+- 🔗 LinkedIn: [Achintya Sharma](https://www.linkedin.com/in/achintyasharma47)
 
 <p align="center">
   <img src="https://img.shields.io/badge/Made_with-LoRA-blue?style=flat-square">
